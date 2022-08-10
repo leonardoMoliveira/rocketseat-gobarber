@@ -1,0 +1,3 @@
+[submodule "shared/arquitetura-flux"]
+	path = shared/arquitetura-flux
+	url = https://github.com/leonardoMoliveira/arquitetura-flux.git
